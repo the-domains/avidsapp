@@ -1,7 +1,7 @@
 name: avidsapp
 favicon: null
-layout_spectrum: 0.5101239932700992
-typography_spectrum: 0.4734784974716604
+layout_spectrum: 1
+typography_spectrum: 0.55012
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#090804'
+    - '#f6f6f6'
+    - '#789ec5'
+    - '#cfb084'
+    - '#496c92'
   brandStrength: 0.7675592687446624
   lightness: 0.5294427119661123
   saturation: 0.5652204682119191
