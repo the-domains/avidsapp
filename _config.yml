@@ -1,0 +1,28 @@
+name: avidsapp
+favicon: null
+layout_spectrum: 0.5101239932700992
+typography_spectrum: 0.4734784974716604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7675592687446624
+  lightness: 0.5294427119661123
+  saturation: 0.5652204682119191
+  rhythmicContrast: 0.3407706150319427
+purpose: []
